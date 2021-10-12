@@ -1,0 +1,6 @@
+845b17a9-38cc-45c4-9772-15be24c5b151 userToken GET 200 /'HTTP/ 1.1' 
+userToken
+userToken
+userToken
+dbd7e7e5-61b8-4a7c-9393-affc07d1d73d userToken GET 404 /api/magic'HTTP/ 1.1' 
+6af3b758-ae11-4e0b-bb33-96c2b55868ad userToken GET 200 /'HTTP/ 1.1' 
